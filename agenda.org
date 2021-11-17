@@ -32,4 +32,5 @@
     + standard-curve or absolute quantitation
       + the start is a plasmid for the gene of interest and the standard curve is generated based on a serial dilution of a starting amount
     + relative quantitation
-      + the amount of target gene in the sample, normalized to an endogenous housekeeping gene and relative to the normalized calibrator   
+      + the amount of target gene in the sample, normalized to an endogenous housekeeping gene and relative to the normalized calibrator
+           
