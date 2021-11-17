@@ -29,4 +29,4 @@
   + threshold: ten-times the standard deviation of the average signal of the baseline fluorescent signal between cycles 3 to 15
   + Ct: fraction PCR cycle number at which the reporter fluorescent is greater that the minimal detection level
   + Quantification
-    + standard-curve
+    + standard-curve or absolute quantitation
