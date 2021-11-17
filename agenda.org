@@ -6,17 +6,24 @@
 
 ** Theory
     10.1586/14737159.5.2.209
-+ PCR reaction generates copies of a DNA template exponentially
-+ Due to inhibitors of PCR found within the template, the PCR reaction eventually ceases to generate template at an exponential rate
-+ rt PCR is the reliable detection and measurement of products generated during each cycle of the PCR process
-+ phosphoryl 5' hydroxyl 3'
-+ polymerase (Taq) catalyzes DNA synthesis
+  + PCR reaction generates copies of a DNA template exponentially
+  + Due to inhibitors of PCR found within the template, the PCR reaction eventually ceases to generate template at an exponential rate
+  + rt PCR is the reliable detection and measurement of products generated during each cycle of the PCR process
+  + phosphoryl 5' hydroxyl 3'
+  + polymerase (Taq) catalyzes DNA synthesis
 
-#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/0/07/Taqman.png @ 2021-11-17 11:51:12
-[[file:PCR/2021-11-17_11-51-12_Taqman.png]]
+  #+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/0/07/Taqman.png @ 2021-11-17 11:51:12
+  [[file:PCR/2021-11-17_11-51-12_Taqman.png]]
 
-#+CAPTION: TaqMan probe
-[[~/taqman.png]]
+  #+CAPTION: TaqMan probe
+  [[~/taqman.png]]
 
-+ The probe has a flourescent reporter dye attached to its 5' end and quencher dye at it 3' terminus
+  + The probe has a flourescent reporter dye attached to its 5' end and quencher dye at it 3' terminus
+  + Additional reporter dye molecules are cleaved from their respective probes with each cycle, leading to an increase in fluorescence intensity proportional to the amount of amplicon produced
+
+  #+CAPTION: PCR cycles
+  [[~/pcr_cycles.png]]
+
+  + baseline: reporter fluorescent signal is accumulating but is beneath the limits of detection of the instrument
+  + delta Rn: fluorescence emission at each time point minus fluorescence emission of the baseline
   
