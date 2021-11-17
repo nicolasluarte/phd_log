@@ -12,3 +12,11 @@
 + phosphoryl 5' hydroxyl 3'
 + polymerase (Taq) catalyzes DNA synthesis
 
+#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/0/07/Taqman.png @ 2021-11-17 11:51:12
+[[file:PCR/2021-11-17_11-51-12_Taqman.png]]
+
+#+CAPTION: TaqMan probe
+[[~/taqman.png]]
+
++ The probe has a flourescent reporter dye attached to its 5' end and quencher dye at it 3' terminus
+  
