@@ -1,4 +1,8 @@
 * Mini-tasks
-** knockout mice vs equipment
+** TODO knockout mice vs equipment
+   
 * PCR
+** Practice
+
+** Theory
 
