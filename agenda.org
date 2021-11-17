@@ -30,3 +30,5 @@
   + Ct: fraction PCR cycle number at which the reporter fluorescent is greater that the minimal detection level
   + Quantification
     + standard-curve or absolute quantitation
+      + the start is a plasmid for the gene of interest and the standard curve is generated based on a serial dilution of a starting amount
+        
