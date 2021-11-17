@@ -2,7 +2,7 @@
 ** knockout mice vs equipment
 *** Objective: generate models with OX/DYN as independent variables
 
-    chan
+    other change
 
 * PCR
 
